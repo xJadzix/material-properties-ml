@@ -17,7 +17,7 @@ Over 71% of materials in the database are metals with a band gap of 0. Including
 ## Project Pipeline
 
 1. **EDA** - data distributions, correlation matrix, missing value analysis
-2. **Feature Engineering** — filtering metals, normalization (StandardScaler), 80/20 split
+2. **Feature Engineering** - filtering metals, normalization (StandardScaler), 80/20 split
 3. **Models** - Linear Regression, Random Forest, Gradient Boosting
 4. **Evaluation** - RMSE, Cross-Validation (5-fold)
 5. **Interpretability** - Feature Importance
